@@ -1,0 +1,29 @@
+.container {
+    display: inline;
+}
+
+nav {
+    float: left;
+    width: 25%;
+}
+
+.section-container {
+    width: 50%;
+    float: left;
+}
+
+aside {
+    float: left;
+    width: 25%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 5.5%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
